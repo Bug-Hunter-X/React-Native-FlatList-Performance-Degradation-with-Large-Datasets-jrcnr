@@ -1,0 +1,1 @@
+This React Native bug arises when using the FlatList component with a large dataset and complex item renderers.  It manifests as extremely slow scrolling, lagging, or even crashes. The root cause often lies in inefficient rendering of list items, excessive re-renders, or memory leaks caused by improper component lifecycle management.
